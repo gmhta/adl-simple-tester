@@ -1,6 +1,6 @@
 plugins {
     `java-library`
-    id("au.net.causal.adl") version "0.1.0"
+    id("au.net.causal.adl") version "0.1.1"
 }
 
 repositories {
